@@ -1,0 +1,17 @@
+{
+  "name": "todoList",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html --out-dir build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jihye",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.25.0"
+  }
+}
